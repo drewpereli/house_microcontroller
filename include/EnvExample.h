@@ -1,0 +1,6 @@
+#ifndef _ENV_INCLUDED
+#define _ENV_INCLUDED
+const char* NETWORK_SSID = "YOUR NETWORK SSID";
+const char* NETWORK_PASSWORD = "YOUR NETWORK PASSWORD";
+const String SERVER_URL = "SERVER URL";
+#endif
